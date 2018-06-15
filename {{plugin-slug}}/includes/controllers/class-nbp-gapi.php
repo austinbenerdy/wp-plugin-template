@@ -1,7 +1,6 @@
 <?php
 
-// API_KEY : AIzaSyD4P0a0cZsWVqUTvqLMqKiB74ukd5BjHNc
-// API_KEY : AIzaSyA47LbtUVg4YBXNgL9PLvdNV9LlKgtfREs // RWS KEY
+
 
 
 /**
